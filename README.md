@@ -146,17 +146,6 @@ credit-risk-prediction/
 ├── credit_risk_prediction.py
 ├── requirements.txt
 └── README.md
-```
-
-## Installation
-
-Clone the repository and install the required dependencies:
-
-```bash
-git clone <repository-url>
-cd credit-risk-prediction
-pip install -r requirements.txt
-```
 
 ## Usage
 
